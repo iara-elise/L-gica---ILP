@@ -5,7 +5,7 @@ print("CALCULADORA \n")
 valor_01 = float(input("Digite o valor 01: "))
 valor_02 = float(input("Digite o valor 02: "))
 
-#Calculando as quatro operações básicas:
+#Calculando as quatro operações básicas + impressão do resultado na tela do usuário.
 
 #SOMA:
 

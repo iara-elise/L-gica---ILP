@@ -22,4 +22,4 @@ mediaPonderada = (nota_01 * peso_01 + nota_02 + peso_02 + nota_03 * peso_03 + no
 
 #Impressão do resultado na tela do usuário.
 
-print("\nMÉDIA PONDERADA:", "{:.1f}".format(mediaPonderada))
+print(f"\nMÉDIA PONDERADA: {mediaPonderada:.1f}")
