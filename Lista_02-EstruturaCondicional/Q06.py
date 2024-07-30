@@ -24,6 +24,7 @@ elif valor_02 < valor_01 and valor_02 < valor_03 and valor_03 < valor_01:
     print(f"{valor_02}, {valor_03}, {valor_01}")
 
 else:
-    print(f"{valor_03}, {valor_01}, {valor_02}")
+    print(f"{valor_03}, {valor_02}, {valor_01}")
 
 
+#REVER QUESTÃO
